@@ -1,0 +1,2 @@
+# push-ikhane
+push swap
