@@ -1,2 +1,2 @@
 # push-ikhane
-push swap
+# Sorting Is A Joke: Useless Sorting Algorithms
